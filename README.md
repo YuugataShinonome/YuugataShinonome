@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @YuugataShinonome
+- 👀 I’m interested in every part of programming and computer science! Also I study math and physics.
+- 🌱 I’m currently learning computer chemistry.
+- 💞️ I’m looking to collaborate on scientific computing.
+- 📫 How to reach me: [shinonomeyuugata@gmail.com](mailto:shinonomeyuugata@gmail.com)
+- 😄 Pronouns: he, she, you, me, I, we, us, this, them, that.
+- ⚡ Fun fact: I can speak 4 languages: Mandarin, Cantonese, English and Japanese.
